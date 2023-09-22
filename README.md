@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maryam Saqib</h1>
-<h3 align="center">Pursuing a BSCS degree at FAST-NUCES, Lahore</h3>
+<h3 align="center">I am currently studying Computer Science at FAST-NUCES, Lahore</h3>
 
 - 📫 How to reach me **maryamsaqib35@gmail.com**
 
