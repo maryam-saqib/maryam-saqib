@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maryam Saqib</h1>
-<h3 align="center">A passionate Computer Science student specializing in Software Engineering, AI/ML and Game Development</h3>
+<h3 align="center">A passionate Computer Science student specializing in Software Engineering and AI/ML</h3>
 
 - 🌱 I’m currently enhancing my skills in **Software Engineering, Artificial Intelligence, Machine Learning, Deep Learning Computer Vision, Game Development and Information Security**.
 - 📫 How to reach me: **maryamsaqib35@gmail.com**
