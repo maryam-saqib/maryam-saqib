@@ -33,5 +33,5 @@
 </p>
 
 ### 🔥 Highlights
-- **AI-ROP**: Developed a multi-level classification system for early Retinopathy diagnosis.
+- **AI-ROP**: Developed a multi-level classification system for early Retinopathy of Prematurity (ROP) diagnosis.
 - **GesTer**: Built an AI-powered gesture-controlled presentation tool using OpenCV.
