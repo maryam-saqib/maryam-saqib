@@ -2,8 +2,8 @@
 <h3 align="center">A passionate Computer Science student specializing in Software Engineering and AI/ML</h3>
 
 - 🌱 I’m currently enhancing my skills in **Software Engineering, Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, Game Development and Information Security**.
+  
 - 📫 How to reach me: **maryamsaqib35@gmail.com**
-- 📄 Know more about my experiences: [LinkedIn](https://linkedin.com/in/maryam-saqib)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
